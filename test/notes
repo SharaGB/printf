@@ -1,0 +1,9 @@
+- Debemos arreglar la función de "%u" para el caso en que le pasemos números negativos
+
+- Solucionar el caso de un sólo porcentaje "%" y en general un número impar de porcentajes (debe imprimirlo) (R)
+
+- considerar el caso en que la bandera no se es ninguna de la agregadas. por ejemplo "%z", debería retornan un valor que reconozcamos para que haga lo que debe hacer (error en la función printf original, pero debe imrpimirlo con -Wno-format) (R)
+
+- ¿Qué pasa cuando los argumentos pasados no coincide con el número de indicadores ingresados? (en caso de que falten -> tomar como null), (en caso de que sobren -> no imprimir)
+
+- caso del backslah "\s" (imprimir el siguiente caracter) (R) "\%" ????
