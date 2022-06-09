@@ -102,5 +102,5 @@ man ./man_3_printf
 
 
 ## Authors :pen:
-- [Shara García](https://github.com/SharaGB)
+- [Shara García](https://www.linkedin.com/in/sharagb/)
 - [Daniel Duarte](https://github.com/Daniel13713)
